@@ -1,2 +1,8 @@
-# RepXplore
-Welcome to RepXplore, your ultimate fitness companion! This app is designed to brew personalized workout plans tailored to each user's unique needs and goals. Whether you're looking to build muscle, lose weight, or simply stay fit, RepXplore provides customized workout routines to help you achieve your fitness objectives.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
